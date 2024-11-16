@@ -21,7 +21,7 @@ Cette application permet de monitorer Fail2Ban et ses jails.
 Au travers de l'interface web vous pouvez également bannir / débannir manuellement des adresses IP.
 
 
-**Version incluse :** 1.0~ynh2
+**Version incluse :** 1.2~ynh1
 
 ## Captures d’écran
 
