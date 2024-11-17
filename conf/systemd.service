@@ -8,7 +8,7 @@ Type=oneshot
 # Only root can fully execute chmod
 User=root
 Group=root
-ExecStart=/usr/local/bin/__APP__
+ExecStart=__INSTALL_DIR__/__APP__
 TimeoutStartSec=180
 
 ### Depending on specificities of your service/app, you may need to tweak these
