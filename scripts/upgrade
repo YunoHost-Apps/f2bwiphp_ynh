@@ -28,6 +28,7 @@ ynh_script_progression "Updating $app's configuration files..."
 
 ynh_config_add --template="systemd.sh" --destination="$install_dir/$app"
 ynh_config_add --template="sudoers" --destination="/etc/sudoers.d/$app"
+ynh_safe_rm "$install_dir/config.inc.php"
 ynh_config_add --template="config.inc.php" --destination="$install_dir/config.inc.php"
 ynh_store_file_checksum "$install_dir/config.inc.php"
 
