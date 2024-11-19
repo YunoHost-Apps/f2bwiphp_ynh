@@ -25,7 +25,6 @@ ynh_backup "/etc/systemd/system/$app.service"
 # BACKUP VARIOUS FILES
 #=================================================
 
-ynh_backup "/usr/local/bin/$app"
 ynh_backup "/etc/sudoers.d/$app"
 
 #=================================================
