@@ -7,7 +7,7 @@ name = "Fail2Ban Webinterface"
 description.en = "Monitor Fail2Ban and manually ban / release IP's"
 description.fr = "Monitorer Fail2Ban et bannir ou dé-bannir des IP's"
 
-version = "1.0~ynh2"
+version = "1.2~ynh1"
 
 maintainers = ["ewilly"]
 
@@ -37,8 +37,8 @@ ram.runtime = "50M"
 [resources]
     [resources.sources]
         [resources.sources.main]
-        url = "https://github.com/ewilly/fail2ban-web-interface-php/archive/refs/tags/v1.1.zip"
-        sha256 = "8e8fe3a113fe7ef1d4472691a29108dcfa8e3a4247b40c7e317cd415ca2b7655"
+        url = "https://github.com/ewilly/fail2ban-web-interface-php/archive/refs/tags/v1.2.tar.gz"
+        sha256 = "ef77ad9e10aecde3ab52726d640a2f9698ef7e96012cc417bb0627fa3ccfd142"
         autoupdate.strategy = "latest_github_tag"
 
     [resources.system_user]

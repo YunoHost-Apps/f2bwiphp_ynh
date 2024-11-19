@@ -25,7 +25,6 @@ ynh_restore "/etc/systemd/system/$app.service"
 # RESTORE VARIOUS FILES
 #=================================================
 
-ynh_restore "/usr/local/bin/$app"
 ynh_restore "/etc/sudoers.d/$app"
 
 #=================================================
