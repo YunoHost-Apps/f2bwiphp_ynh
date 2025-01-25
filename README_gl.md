@@ -5,7 +5,9 @@ NON debe editarse manualmente.
 
 # Fail2Ban Webinterface para YunoHost
 
-[![Nivel de integración](https://dash.yunohost.org/integration/fail2ban-web.svg)](https://ci-apps.yunohost.org/ci/apps/fail2ban-web/) ![Estado de funcionamento](https://ci-apps.yunohost.org/ci/badges/fail2ban-web.status.svg) ![Estado de mantemento](https://ci-apps.yunohost.org/ci/badges/fail2ban-web.maintain.svg)
+[![Nivel de integración](https://apps.yunohost.org/badge/integration/fail2ban-web)](https://ci-apps.yunohost.org/ci/apps/fail2ban-web/)
+![Estado de funcionamento](https://apps.yunohost.org/badge/state/fail2ban-web)
+![Estado de mantemento](https://apps.yunohost.org/badge/maintained/fail2ban-web)
 
 [![Instalar Fail2Ban Webinterface con YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=fail2ban-web)
 
@@ -21,7 +23,7 @@ That app allow you to monitor Fail2Ban and its jails.
 In the web interface you can also manually ban / release IP's.
 
 
-**Versión proporcionada:** 1.2~ynh1
+**Versión proporcionada:** 1.3~ynh1
 
 ## Capturas de pantalla
 
