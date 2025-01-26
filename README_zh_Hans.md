@@ -5,7 +5,9 @@
 
 # YunoHost 上的 Fail2Ban Webinterface
 
-[![集成程度](https://dash.yunohost.org/integration/fail2ban-web.svg)](https://ci-apps.yunohost.org/ci/apps/fail2ban-web/) ![工作状态](https://ci-apps.yunohost.org/ci/badges/fail2ban-web.status.svg) ![维护状态](https://ci-apps.yunohost.org/ci/badges/fail2ban-web.maintain.svg)
+[![集成程度](https://apps.yunohost.org/badge/integration/fail2ban-web)](https://ci-apps.yunohost.org/ci/apps/fail2ban-web/)
+![工作状态](https://apps.yunohost.org/badge/state/fail2ban-web)
+![维护状态](https://apps.yunohost.org/badge/maintained/fail2ban-web)
 
 [![使用 YunoHost 安装 Fail2Ban Webinterface](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=fail2ban-web)
 
@@ -21,7 +23,7 @@ That app allow you to monitor Fail2Ban and its jails.
 In the web interface you can also manually ban / release IP's.
 
 
-**分发版本：** 1.2~ynh1
+**分发版本：** 1.3~ynh1
 
 ## 截图
 
