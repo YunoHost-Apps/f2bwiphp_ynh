@@ -5,7 +5,9 @@ Il NE doit PAS être modifié à la main.
 
 # Fail2Ban Webinterface pour YunoHost
 
-[![Niveau d’intégration](https://dash.yunohost.org/integration/fail2ban-web.svg)](https://ci-apps.yunohost.org/ci/apps/fail2ban-web/) ![Statut du fonctionnement](https://ci-apps.yunohost.org/ci/badges/fail2ban-web.status.svg) ![Statut de maintenance](https://ci-apps.yunohost.org/ci/badges/fail2ban-web.maintain.svg)
+[![Niveau d’intégration](https://apps.yunohost.org/badge/integration/fail2ban-web)](https://ci-apps.yunohost.org/ci/apps/fail2ban-web/)
+![Statut du fonctionnement](https://apps.yunohost.org/badge/state/fail2ban-web)
+![Statut de maintenance](https://apps.yunohost.org/badge/maintained/fail2ban-web)
 
 [![Installer Fail2Ban Webinterface avec YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=fail2ban-web)
 
@@ -21,7 +23,7 @@ Cette application permet de monitorer Fail2Ban et ses jails.
 Au travers de l'interface web vous pouvez également bannir / débannir manuellement des adresses IP.
 
 
-**Version incluse :** 1.2~ynh1
+**Version incluse :** 1.3~ynh1
 
 ## Captures d’écran
 
